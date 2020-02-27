@@ -9,3 +9,6 @@ Particle size was measured using a PCASSP(Bloggs et al, 2004).
 
 # Motivations
 Findout more about this important hyperinflation phenomenon.
+
+#Simulations
+We simulate the hyperinflation of freddo's over the last 33 years.
