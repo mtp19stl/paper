@@ -1,8 +1,8 @@
 Simulations of the Hyperinflation of the Freddo during the years 1987 - 2020
 
 #Author
-Sam Lister
-Mr Cadbury
+Sam Lister, University of Sheffield
+Mr Cadbury, Univeristy of Chocolate
 
 #Introduction
 We present aircraft measurements for BBOA
