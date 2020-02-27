@@ -1,6 +1,8 @@
-The Hyperinflation of the Freddo during the years 1990 - 2020
+Simulations of the Hyperinflation of the Freddo during the years 1987 - 2020
 
-Author: Sam Lister
+#Author
+Sam Lister
+Mr Cadbury
 
 #Introduction
 We present aircraft measurements for BBOA
