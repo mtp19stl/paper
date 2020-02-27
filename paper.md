@@ -14,3 +14,4 @@ Findout more about this important hyperinflation phenomenon.
 
 #Simulations
 We simulate the hyperinflation of freddo's over the last 33 years.
+
