@@ -24,3 +24,6 @@ The price increases of freddo's over the last 30 years have been ridiculous.
 ## Figures
 
 Here is a figure of a freddo.
+
+## Acknowledgements
+Thanks to the cadburys world and all freddos that died during this reseaarch.
