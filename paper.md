@@ -20,3 +20,7 @@ We compared the price of freddo's in 1987 to that in 2020. The plot was compared
 
 #Conclusion
 The price increases of freddo's over the last 30 years have been ridiculous.
+
+## Figures
+
+Here is a figure of a freddo.
